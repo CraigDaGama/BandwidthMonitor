@@ -2,6 +2,9 @@
 
 This is a simple Python-based bandwidth monitoring tool with a graphical interface using PyQt5. It displays real-time upload and download speeds, IP address information, and provides a system tray icon for easy access.
 
+
+<img width="700" height="500" alt="Screenshot 2025-12-26 020519" src="https://github.com/user-attachments/assets/facd7f17-8e8f-4c9d-91d5-269766dccdee" />
+
 ## Features
 - Real-time monitoring of upload and download speeds.
 - Graphical interface with a graph to display bandwidth usage over time.
